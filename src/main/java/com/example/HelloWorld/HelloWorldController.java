@@ -9,6 +9,6 @@ public class HelloWorldController {
     @RequestMapping("/")
     public String index()
     {
-        return "Hello Bret!";
+        return "Hello World from the terminal!";
     }
 }
