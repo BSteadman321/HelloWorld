@@ -1,6 +1,6 @@
 # HelloWorld
 
-** sentence in bold **
+**sentence in bold**
 
 *sentence in italics*
 
