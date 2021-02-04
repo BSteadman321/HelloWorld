@@ -2,7 +2,7 @@
 
 ** sentence in bold **
 
-* sentence in italics *
+*sentence in italics*
 
 This is a [hyperlink](https://google.com)
 
