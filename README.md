@@ -1,5 +1,9 @@
 # HelloWorld
 
+This project displays my name, Bret!
+
+(README.md tests follow)
+
 **sentence in bold**
 
 *sentence in italics*
